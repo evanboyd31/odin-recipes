@@ -5,6 +5,7 @@
 
 .page-header{
     background-color: blue;
+    font-size: 40px;
 }
 .text {
     text-align: center;
@@ -23,6 +24,10 @@
 
 #waffles{
     background-color: rgb(241, 141, 141); 
+}
+
+ul, ol, p, .ingredients, .steps, h3{
+    font-size: 24px;
 }
 
 .ingredients{
